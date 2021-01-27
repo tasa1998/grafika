@@ -1,0 +1,109 @@
+C:\Users\Nastasja\Desktop\Grafika\Projekat je ovde\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\Nastasja\Desktop\Grafika\Projekat je ovde\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\Nastasja\Desktop\Grafika\Projekat je ovde\AssimpSample\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+C:\Users\Nastasja\Desktop\Grafika\Projekat je ovde\AssimpSample\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+C:\Users\Nastasja\Desktop\Grafika\Projekat je ovde\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\Nastasja\Desktop\Grafika\Projekat je ovde\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\Nastasja\Desktop\Grafika\Projekat je ovde\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\Nastasja\Desktop\Grafika\Projekat je ovde\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\Nastasja\Desktop\Grafika\Projekat je ovde\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\Nastasja\Desktop\Grafika\Projekat je ovde\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Nastasja\Desktop\Grafika\Projekat je ovde\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\Nastasja\Desktop\Grafika\Projekat je ovde\AssimpSample\AssimpSample\obj\x86\Debug\PF1S7.2.csprojAssemblyReference.cache
+C:\Users\Nastasja\Desktop\Grafika\Projekat je ovde\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Nastasja\Desktop\Grafika\Projekat je ovde\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Nastasja\Desktop\Grafika\Projekat je ovde\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\Nastasja\Desktop\Grafika\Projekat je ovde\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\Nastasja\Desktop\Grafika\Projekat je ovde\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\Nastasja\Desktop\Grafika\Projekat je ovde\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\Nastasja\Desktop\Grafika\Projekat je ovde\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\Nastasja\Desktop\Grafika\Projekat je ovde\AssimpSample\AssimpSample\obj\x86\Debug\PF1S7.2.csproj.GenerateResource.cache
+C:\Users\Nastasja\Desktop\Grafika\Projekat je ovde\AssimpSample\AssimpSample\obj\x86\Debug\PF1S7.2.csproj.CoreCompileInputs.cache
+C:\Users\Nastasja\Desktop\Grafika\Projekat je ovde\AssimpSample\AssimpSample\obj\x86\Debug\PF1S7.2.csproj.CopyComplete
+C:\Users\Nastasja\Desktop\Grafika\Projekat je ovde\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\Nastasja\Desktop\Grafika\Projekat je ovde\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\obj\x86\Debug\PF1S7.2.csprojResolveAssemblyReference.cache
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\obj\x86\Debug\PF1S7.2.csproj.GenerateResource.Cache
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\bin\Debug\3D Models\Rugby_Ball\10525_Rugby_Ball_v1_L3.mtl
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\bin\Debug\3D Models\Rugby_Ball\10525_Rugby_Ball_v1_L3.obj
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\bin\Debug\3D Models\Rugby_Ball\10525_Rugby_Ball_v1_Diffuse.jpg
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\bin\Debug\textures\0127-football-green-grass-texture-seamless-hr.jpg
+C:\Users\Steva\Desktop\grafika\!nastasja\AssimpSample\AssimpSample\bin\Debug\textures\plastics.jpg
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\bin\Debug\3D Models\Rugby_Ball\10525_Rugby_Ball_v1_L3.mtl
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\bin\Debug\3D Models\Rugby_Ball\10525_Rugby_Ball_v1_L3.obj
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\bin\Debug\textures\0127-football-green-grass-texture-seamless-hr.jpg
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\bin\Debug\textures\plastics.jpg
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\bin\Debug\3D Models\Rugby_Ball\10525_Rugby_Ball_v1_Diffuse.jpg
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\obj\x86\Debug\PF1S7.2.csprojAssemblyReference.cache
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\obj\x86\Debug\PF1S7.2.csproj.GenerateResource.cache
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\obj\x86\Debug\PF1S7.2.csproj.CoreCompileInputs.cache
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\obj\x86\Debug\PF1S7.2.csproj.CopyComplete
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\Nastasja\Desktop\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\bin\Debug\3D Models\Rugby_Ball\10525_Rugby_Ball_v1_L3.mtl
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\bin\Debug\3D Models\Rugby_Ball\10525_Rugby_Ball_v1_L3.obj
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\bin\Debug\textures\0127-football-green-grass-texture-seamless-hr.jpg
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\bin\Debug\textures\plastics.jpg
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\bin\Debug\3D Models\Rugby_Ball\10525_Rugby_Ball_v1_Diffuse.jpg
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\obj\x86\Debug\PF1S7.2.csprojAssemblyReference.cache
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\obj\x86\Debug\PF1S7.2.csproj.GenerateResource.cache
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\obj\x86\Debug\PF1S7.2.csproj.CoreCompileInputs.cache
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\obj\x86\Debug\PF1S7.2.csproj.CopyComplete
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\Nastasja\Desktop\Faks\Grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb

@@ -1,0 +1,24 @@
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\AssimpSample\AssimpSample\bin\Release\AssimpLib\Assimp32.dll
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\AssimpSample\AssimpSample\bin\Release\AssimpLib\Assimp64.dll
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\AssimpSample\AssimpSample\bin\Release\AssimpLib\AssimpNet.dll
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\AssimpSample\AssimpSample\bin\Release\3D Models\Touareg\Touareg.3DS
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\AssimpSample\AssimpSample\bin\Release\AssimpSample.exe.config
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\AssimpSample\AssimpSample\bin\Release\AssimpSample.exe
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\AssimpSample\AssimpSample\bin\Release\AssimpSample.pdb
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\AssimpSample\AssimpSample\bin\Release\AssimpNet.dll
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\AssimpSample\AssimpSample\bin\Release\SharpGL.dll
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\AssimpSample\AssimpSample\bin\Release\SharpGL.SceneGraph.dll
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\AssimpSample\AssimpSample\bin\Release\SharpGL.WPF.dll
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample.csprojAssemblyReference.cache
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Release\MainWindow.baml
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Release\MainWindow.g.cs
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Release\App.g.cs
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample_Content.g.cs
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample_MarkupCompile.cache
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample.g.resources
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample.Properties.Resources.resources
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample.csproj.GenerateResource.cache
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample.csproj.CoreCompileInputs.cache
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample.csproj.CopyComplete
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample.exe
+C:\Users\Nenad\Desktop\RG RA\casovi\cas04\AssimpSample\AssimpSample\obj\x86\Release\AssimpSample.pdb
